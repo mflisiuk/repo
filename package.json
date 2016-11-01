@@ -1,7 +1,7 @@
 {
-  "name"         : "node-web-scrape",
+  "name"         : "some test app",
   "version"      : "0.0.1",
-  "description"  : "Scrape le web.",
+  "description"  : "some test app",
   "main"         : "server.js",
   "author"       : "Scotch",
   "repository"   : {

@@ -3,7 +3,7 @@ var fs      = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
 var app     = express();
-app.get('/show', function(req, res){
+app.get('/', function(req, res){
 var content;
   fs.readFile('output.json', function read(err, data) {
       if (err) {
